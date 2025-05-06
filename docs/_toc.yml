@@ -4,5 +4,5 @@ root: README
 parts:
   - caption: Haiti Agriculture Analytics
     chapters:
-      - file: notebooks/agriculture/crop-productivity copy.ipynb
+      - file: notebooks/agriculture/crop-productivity.ipynb
       
